@@ -2,11 +2,6 @@
 
 ## Getting started
 
-```shell
-docker-compose up
-# docker-compose stop
-```
-
 For the standalone web service:
 
 ```shell
